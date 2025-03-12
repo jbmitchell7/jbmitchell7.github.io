@@ -9,12 +9,12 @@ export interface ProjectItem {
 
 export const projects: ProjectItem[] = [
 	{
-		title: "Sleeper Fantasy Focus",
+		title: "TC Fantasy Dashboard",
 		description: "A MEAN stack project that uses the Sleeper Fantasy App API to display live data and charts on your favorite Sleeper fantasy league. If you have a league ID enter it in the field, if not feel free to use 725424222041657344 as an example.",
 		screenshot: "img/projects/sff.png",
-		github: "https://github.com/jbmitchell7/sleeperfantasyfocus",
-    githubSecondary: "https://github.com/jbmitchell7/sleeperfantasyfocus-be",
-		projectUrl: "https://portfolio.thundercloud.dev/sleeperfantasyfocus"
+		github: "https://github.com/jbmitchell7/tc-fantasy-dashboard",
+    githubSecondary: "https://github.com/jbmitchell7/tc-fantasy-dashboard-be",
+		projectUrl: "https://fantasy-dashboard.thundercloud.dev"
 	},
 	{
 		title: "Flickbase",
